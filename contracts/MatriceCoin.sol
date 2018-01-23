@@ -2,8 +2,10 @@ pragma solidity ^0.4.4;
 
 contract MatriceCoin {
 
-	address public minter;
-	mapping (address => uint) balances;
+	// Variables used globaly in the contract to be created:
+	//
+	// 1. address of the creator.
+	// 2. all the accounts (see mapping in solidity)
 
 	// Contract creation
 	//
