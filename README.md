@@ -20,7 +20,7 @@ testrpc
 ```
 Then to compile and migrate on the blockchain our contracts :
 ```
-truffle compile
+truffle migrate
 ```
 En finally to test our contract :
 ```
