@@ -1,2 +1,2 @@
-# ExoCoin
-Simple Exercice to create main functions of a Coin
+# MatriceCoin
+Solidity Contract to create the MatriceCoin @42school
